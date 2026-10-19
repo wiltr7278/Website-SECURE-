@@ -1,0 +1,2 @@
+# SECURE Website only
+Set environment variables from `.env.example`; configure the Discord OAuth2 redirect URI exactly; install with `pip install -r requirements.txt`; start with `python website.py`. The website uses SECURE-Bot's authenticated API. Keep `SECURE_API_SECRET` identical on both hosts and never commit secrets. Buttons include Add SECURE and Join Support Server.\n
